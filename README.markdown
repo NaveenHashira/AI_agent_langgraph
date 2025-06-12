@@ -54,7 +54,7 @@ These examples demonstrate the agent's ability to handle mathematical queries an
 ## Howទ
 
 ### How It Works
-The AI agent is built using LangGraph, enabling stateful workflows with [ChatGroq](https://groq.com/) as the language model. It supports:
+The AI agent is built using LangGraph, enabling stateful workflows with **qwen-qwq-32b** as the language model. It supports:
 - **Mathematical Tools**: Addition, subtraction, multiplication, division, modulus.
 - **Knowledge Retrieval**: Wikipedia, Arxiv, and DuckDuckGo search.
 - **Memory**: Conversation history is maintained within a session using LangGraph's MemorySaver.
