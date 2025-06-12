@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_groq
+langgraph
+langchain_community
+huggingface_hub
+duckduckgo-search
+python-dotenv
+arxiv
+wikipedia
