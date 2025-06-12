@@ -71,8 +71,6 @@ The Streamlit app provides a simple interface for entering queries and viewing a
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/) for suggestions or improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Notes
 - An internet connection is required for external API calls.
